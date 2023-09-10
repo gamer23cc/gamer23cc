@@ -1,0 +1,14 @@
+#idk
+
+
+import requests
+import threading
+import time
+from colorama import init, Fore
+import ctypes
+import string
+import random
+
+init(convert=True)
+ctypes.windll.kernel32.SetConsoleTitleW("Amazon Gen and Checker by IQBooster")
+text = '''
